@@ -101,7 +101,8 @@ inline bool astroEQ_verlessthan(unsigned long verReq) {
 #define DRV882x 1
 #define DRV8834 2
 #define TMC2100 3
-#define DRIVER_MAX 3
+#define TMC2209 4
+#define DRIVER_MAX 4
 
 #define SPEEDNORM 0
 #define SPEEDFAST 1
